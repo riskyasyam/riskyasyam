@@ -15,9 +15,6 @@ Heellooowww bruh, welcome to my page. My passion is UI UX design, web dev, mobil
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=riskyasyam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=riskyasyam&icon=6&color=0)](https://visitcount.itsvg.in)
 
