@@ -1,17 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,100:00ccff&height=200&section=header&text=RISKY%20ASYAM&fontSize=60&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=%20Full-Stack%20Developer&descAlignY=62&descColor=00ccff" />
-</div>
-
 <h2 align="center">Junior .md Developer</h2>
-
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:riskyasyam?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
-</div>
-
-###
 
 <div align="left">
   <a href="riskyasyam@gmail.com" target="_blank">
